@@ -4,7 +4,8 @@ metadata:
   name: test_backstage_clone_v1
   annotations:
     github.com/project-slug: jihoon15/test_backstage_clone_v1
+    jenkins.io/job-full-name: jenkins_test_backstage
 spec:
-  type: other
+  type: service
   lifecycle: unknown
   owner: team-b
