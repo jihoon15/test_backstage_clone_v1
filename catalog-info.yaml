@@ -5,7 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: jihoon15/test_backstage_clone_v1
     jenkins.io/job-full-name: jenkins_test_backstage
-    backstage.io/techdocs-ref: url:https://github.com/jihoon15/test_template_docs/blob/master/catalog-info.yaml
+    backstage.io/techdocs-ref: url:https://github.com/jihoon15/test_template_docs/blob/master
 spec:
   type: service
   lifecycle: unknown
